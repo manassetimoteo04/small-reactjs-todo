@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/manassetimoteo04/small-reactjs-todo/static/css/main.e7e04244.css",
-    "main.js": "/manassetimoteo04/small-reactjs-todo/static/js/main.006049fa.js",
-    "index.html": "/manassetimoteo04/small-reactjs-todo/index.html",
-    "main.e7e04244.css.map": "/manassetimoteo04/small-reactjs-todo/static/css/main.e7e04244.css.map",
-    "main.006049fa.js.map": "/manassetimoteo04/small-reactjs-todo/static/js/main.006049fa.js.map"
+    "main.css": "/small-reactjs-todo/static/css/main.e7e04244.css",
+    "main.js": "/small-reactjs-todo/static/js/main.006049fa.js",
+    "index.html": "/small-reactjs-todo/index.html",
+    "main.e7e04244.css.map": "/small-reactjs-todo/static/css/main.e7e04244.css.map",
+    "main.006049fa.js.map": "/small-reactjs-todo/static/js/main.006049fa.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e04244.css",
